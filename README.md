@@ -274,4 +274,4 @@ Merging from `dev` → `main` triggers automatic upload:
 
 ## 🏷️ License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and share for educational purposes.
+This project is licensed under the **MIT License** feel free to use, modify, and share for educational purposes.
