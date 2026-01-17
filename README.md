@@ -1,4 +1,4 @@
-# 🍔 Real-Time Food Delivery Data Analysis using AWS (with CI/CD Pipeline)
+# Real-Time Food Delivery Data Analysis using AWS (with CI/CD Pipeline)
 
 This project demonstrates a **real-time data engineering pipeline** built on **AWS**, designed to simulate, process, and analyze food delivery data streams.
 It integrates multiple AWS services for **data ingestion, transformation, warehousing, and visualization**, orchestrated through **Airflow** and automated with **CodeBuild CI/CD**.
